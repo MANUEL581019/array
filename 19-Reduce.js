@@ -12,3 +12,5 @@ const valorMedia = (sumnaSeccion(listA)+sumnaSeccion(listB)+sumnaSeccion(listC))
 
 console.log(`El valor de la media de las 3 secciones es: ${valorMedia.toFixed(2)}`);
 
+
+
